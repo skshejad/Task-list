@@ -1,1 +1,2 @@
-r
+npm install
+npm run serve
